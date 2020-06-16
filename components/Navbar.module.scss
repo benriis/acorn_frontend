@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  font-family: 'Fira Sans', sans-serif;
+  color: #6c757d;
+  a {
+    margin-right: 1rem;
+  }
+  ul {
+    padding: 0;
+    display: flex;
+  }
+}
